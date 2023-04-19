@@ -1,4 +1,4 @@
-# File_pioneer
+# Rapid-File-Convection
 This project helps in sharing single or multiple files with the members around you.
 here this project is a server-based application in which the wifi acts as a medium while sharing the files.
 when the user chooses files from his source ,uploaded to the server, a secure key is generated later on
